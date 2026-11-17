@@ -17,4 +17,7 @@ Parrot is my person, Parrot is my only person, Parrot is my best friend, Parrot 
 
 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot <3 Parrot Parrot <3 Parrot <3 
 
+ <details>
+      <summary> A test </summary>
+
 
