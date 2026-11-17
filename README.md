@@ -4,9 +4,7 @@
    <tr>
      <td>
  <p align=center>  
-$\text{\color{#912D30} Just Wovies . }$
-$\text{\color{#FFC589} he / him . }$
-$\text{\color{#46120D} -12 or BB DNI . }$
+
      </td>
    </tr>
  </table>
