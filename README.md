@@ -4,11 +4,11 @@
   <tr>
     <td align="center">
 
-$\color{#470569}{\textrm{Wovies .}}$
+$\color{#470569}{\Large\textrm{Wovies .}}$
 <br>
-$\color{#C3BABB}{\text{He/Him .}}$
+$\color{#C3BABB}{\Large\textrm{He/Him .}}$
 <br>
-$\color{#040505}{\text{-12 dni}}$
+$\color{#040505}{\Large\textrm{-12 & bb's dni .}}$
 
 <br>
 
