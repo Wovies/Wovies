@@ -10,11 +10,6 @@ $\color{#C3BABB}{\text{He/Him .}}$
 <br>
 $\color{#040505}{\text{-12 dni}}$
 
-
-<img width="230" height="100" alt="wifies-parrotx2" src="https://github.com" />
-
-
-
 <img width="220" height="100" alt="wifies-parrotx2" src="https://github.com/user-attachments/assets/9bb13eff-3542-4e0b-a695-c412ffc9b71b" />
 
 </td>
