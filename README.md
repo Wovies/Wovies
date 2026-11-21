@@ -34,3 +34,5 @@ $\color{#C3BABB}{\large\textsf{know more about me,}}$ $\color{#000000}{\large\te
     </td>
   </tr>
 </table>
+
+Keep in mind this is still wip!
