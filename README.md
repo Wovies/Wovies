@@ -22,7 +22,7 @@ $\color{#000000}{\Large\textrm{Semi-active .}}$
 <table>
   <tr>
     <td align="center">
-        <img align="center" width="120px alt="0b36d93289fa1b95e972630a845570e3" src="https://github.com/user-attachments/assets/e099ca85-2a0d-4d41-aa24-74ca65fefaee" />
+        <img align="center" width="130px alt="0b36d93289fa1b95e972630a845570e3" src="https://github.com/user-attachments/assets/e099ca85-2a0d-4d41-aa24-74ca65fefaee" />
           </td>
           <td align="left">
 
