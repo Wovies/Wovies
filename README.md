@@ -8,7 +8,7 @@ $\color{#470569}{\Large\textrm{Wovies .}}$
 <br>
 $\color{#C3BABB}{\Large\textrm{He/Him .}}$
 <br>
-$\color{#040505}{\Large\textrm{Semi-active .}}$
+$\color{#000000}{\Large\textrm{Semi-active .}}$
 <br>
 
 <img width="220" height="100" alt="wifies-parrotx2" src="https://github.com/user-attachments/assets/9bb13eff-3542-4e0b-a695-c412ffc9b71b" />
