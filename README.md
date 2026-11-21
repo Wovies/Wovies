@@ -24,8 +24,8 @@ $\color{#000000}{\Large\textrm{Semi-active .}}$
       <tr>
         <td align="center">
         <img align="center" width="120px alt="0b36d93289fa1b95e972630a845570e3" src="https://github.com/user-attachments/assets/e099ca85-2a0d-4d41-aa24-74ca65fefaee" />
-        </td>
-        <td align="left">
+          </td>
+          <td align="left">
 
 $\color{#C3BABB}{\large\textsf{Do not copy}}$ $\color{#000000}{\large\textsf{or take inspo off my skins unless}}$
 <br>
