@@ -37,5 +37,3 @@ $\color{#C3BABB}{\large\textsf{know more about me,}}$ $\color{#000000}{\large\te
     </tbody>
   </table>
 </div>
-
-still wip 
