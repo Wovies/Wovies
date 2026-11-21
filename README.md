@@ -17,3 +17,21 @@ $\color{#000000}{\Large\textrm{Semi-active .}}$
   </tr>
 </table>
 <br clear="left"/>
+
+<div id="header" align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center">
+      <td><img align="center" width="100px alt="0b36d93289fa1b95e972630a845570e3" src="https://github.com/user-attachments/assets/e099ca85-2a0d-4d41-aa24-74ca65fefaee" />
+
+$\color{#470569}{\textrm{Do not copy or take inspo off my skins unless}}$
+<br>
+$\color{#470569}{\textrm{you have my permission.}}$ $\color{#C3BABB}{\textrm{And if you wanna}}$
+<br>
+$\color{#C3BABB}{\textrm{know more about me,}}$ $\color{#000000}{\textrm{visit these sites}}$
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
