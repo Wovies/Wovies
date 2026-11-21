@@ -27,9 +27,9 @@ $\color{#000000}{\Large\textrm{Semi-active .}}$
         </td>
         <td align="left">
 
-$\color{#C3BABB}{\large\textsf{Do not copy or take inspo off my skins unless}}$
+$\color{#C3BABB}{\large\textsf{Do not copy}}$ $\color{#000000}{\large\textsf{or take inspo off my skins unless}}$
 <br>
-$\color{#000000}{\large\textsf{you have my permission.}}$ $\color{#C3BABB}{\large\textsf{And if you wanna}}$
+$\color{#C3BABB}{\large\textsf{you have my permission.}}$ $\color{#000000}{\large\textsf{And if you wanna}}$
 <br>
 $\color{#C3BABB}{\large\textsf{know more about me,}}$ $\color{#000000}{\large\textsf{visit these sites}}$
         </td>
