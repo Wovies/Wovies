@@ -17,7 +17,6 @@ $\color{#000000}{\Large\textrm{Semi-active .}}$
   </tr>
 </table>
 <br clear="left"/>
-
 <div id="header" align="center">
   <table>
     <tbody>
