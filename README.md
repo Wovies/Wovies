@@ -1,8 +1,8 @@
 <img align="left" width="300" height="400" alt="Wifies" src="https://github.com/user-attachments/assets/7ffc0fe6-4566-4b97-9683-3a8ced5e1c3d" />
 
-<table align="left">
+<table>
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
 
 $\color{#470569}{\Large\textrm{Wovies .}}$
 <br>
@@ -13,11 +13,11 @@ $\color{#000000}{\Large\textrm{Semi-active .}}$
 
 <img width="220" height="100" alt="wifies-parrotx2" src="https://github.com/user-attachments/assets/9bb13eff-3542-4e0b-a695-c412ffc9b71b" />
 
-</td>
+
+  </td>
   </tr>
-</table>
-<br clear="left"/>
-<div id="header" align="center">
+  <tr>
+    <td align="center">
   <table>
     <tbody>
       <tr>
@@ -31,8 +31,6 @@ $\color{#C3BABB}{\large\textsf{Do not copy}}$ $\color{#000000}{\large\textsf{or 
 $\color{#C3BABB}{\large\textsf{you have my permission.}}$ $\color{#000000}{\large\textsf{And if you wanna}}$
 <br>
 $\color{#C3BABB}{\large\textsf{know more about me,}}$ $\color{#000000}{\large\textsf{visit these sites}}$
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+    </td>
+  </tr>
+</table>
