@@ -37,4 +37,5 @@ $\color{#C3BABB}{\large\textsf{know more about me,}}$ $\color{#000000}{\large\te
 
 ---
 <img width="200" height="200" alt="wifies-deco" src="https://github.com/user-attachments/assets/98a39fbd-5770-4bb9-952a-7406b47a67a3" />
+
 ---
